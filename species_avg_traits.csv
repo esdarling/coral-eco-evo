@@ -1,0 +1,550 @@
+"specie_name","life_history","growth_form","trait_name","standard_unit","mean","n"
+"Acropora abrolhosensis","n/a","branching_open","Colony maximum diameter","cm",533.333333333333,3
+"Acropora abrotanoides","n/a","branching_open","Growth rate","mm month^-1",10.625,1
+"Acropora aculeus","n/a","corymbose","Colony maximum diameter","cm",40,2
+"Acropora acuminata","n/a","branching_open","Colony maximum diameter","cm",133.333333333333,3
+"Acropora anthocercis","n/a","tables_or_plates","Colony maximum diameter","cm",75,2
+"Acropora aspera","competitive","branching_open","Growth rate","mm month^-1",4.04355,40
+"Acropora aspera","competitive","branching_open","Symbiodinium density","units cm^-2",1500000,1
+"Acropora aspera","competitive","branching_open","Tissue thickness","mm",1,1
+"Acropora austera","n/a","branching_open","Calcification rate","g cm ^-2 yr^-1",1.82,1
+"Acropora austera","n/a","branching_open","Growth rate","mm month^-1",5.24166666666667,1
+"Acropora awi","n/a","hispidose","Colony maximum diameter","cm",150,2
+"Acropora azurea","n/a","branching_closed","Colony maximum diameter","cm",15,1
+"Acropora batunai","n/a","tables_or_plates","Colony maximum diameter","cm",125,2
+"Acropora bushyensis","n/a","digitate","Colony maximum diameter","cm",25,2
+"Acropora caroliniana","n/a","tables_or_plates","Colony maximum diameter","cm",50,3
+"Acropora cerealis","competitive","corymbose","Colony maximum diameter","cm",50,2
+"Acropora cerealis","competitive","corymbose","Growth rate","mm month^-1",3.575,4
+"Acropora cervicornis","competitive","branching_open","Calcification rate","g cm ^-2 yr^-1",7.66666666666667,18
+"Acropora cervicornis","competitive","branching_open","Colony maximum diameter","cm",68.69,2
+"Acropora cervicornis","competitive","branching_open","Growth rate","mm month^-1",6.54169934640523,51
+"Acropora cervicornis","competitive","branching_open","Symbiodinium density","units cm^-2",1512943.47826087,460
+"Acropora cylindrica","n/a","branching_open","Colony maximum diameter","cm",100,1
+"Acropora cytherea","competitive","tables_or_plates","Colony maximum diameter","cm",300,3
+"Acropora cytherea","competitive","tables_or_plates","Growth rate","mm month^-1",4.97708333333333,4
+"Acropora dendrum","n/a","corymbose","Colony maximum diameter","cm",100,3
+"Acropora derawanensis","n/a","branching_open","Colony maximum diameter","cm",100,2
+"Acropora desalwii","n/a","corymbose","Colony maximum diameter","cm",30,2
+"Acropora digitifera","n/a","digitate","Calcification rate","g cm ^-2 yr^-1",2.29,1
+"Acropora digitifera","n/a","digitate","Colony maximum diameter","cm",100,1
+"Acropora digitifera","n/a","digitate","Growth rate","mm month^-1",3.13333333333333,1
+"Acropora digitifera","n/a","digitate","Tissue thickness","mm",1.9,1
+"Acropora divaricata","competitive","tables_or_plates","Growth rate","mm month^-1",3.45833333333333,1
+"Acropora donei","n/a","branching_open","Colony maximum diameter","cm",266.666666666667,3
+"Acropora echinata","n/a","hispidose","Colony maximum diameter","cm",150,2
+"Acropora efflorescens","n/a","tables_or_plates","Colony maximum diameter","cm",200,1
+"Acropora elseyi","competitive","hispidose","Colony maximum diameter","cm",50,2
+"Acropora elseyi","competitive","hispidose","Growth rate","mm month^-1",11.1,2
+"Acropora eurystoma","n/a","corymbose","Growth rate","mm month^-1",2.88571428571429,2
+"Acropora fenneri","n/a","branching_open","Colony maximum diameter","cm",100,2
+"Acropora florida","competitive","branching_open","Colony maximum diameter","cm",1500,1
+"Acropora florida","competitive","branching_open","Symbiodinium density","units cm^-2",1890000,1
+"Acropora gemmifera","competitive","digitate","Calcification rate","g cm ^-2 yr^-1",1.42,1
+"Acropora gemmifera","competitive","digitate","Colony fecundity","mm^3",30705.1058064516,31
+"Acropora gemmifera","competitive","digitate","Growth rate","mm month^-1",2,1
+"Acropora gemmifera","competitive","digitate","Polyp fecundity","units",6.448,1
+"Acropora gemmifera","competitive","digitate","Tissue thickness","mm",1.9,1
+"Acropora gomezi","n/a","branching_open","Growth rate","mm month^-1",2.5125,2
+"Acropora grandis","competitive","branching_open","Colony maximum diameter","cm",450,4
+"Acropora granulosa","competitive","tables_or_plates","Colony maximum diameter","cm",75,4
+"Acropora granulosa","competitive","tables_or_plates","Growth rate","mm month^-1",0.596666666666667,3
+"Acropora hemprichii","competitive","branching_open","Colony maximum diameter","cm",200,1
+"Acropora hemprichii","competitive","branching_open","Growth rate","mm month^-1",0.761759259259259,9
+"Acropora hoeksemai","n/a","branching_open","Colony maximum diameter","cm",333.333333333333,3
+"Acropora horrida","competitive","branching_closed","Colony maximum diameter","cm",200,2
+"Acropora humilis","competitive","digitate","Growth rate","mm month^-1",1.68472222222222,6
+"Acropora humilis","competitive","digitate","Symbiodinium density","units cm^-2",1950000,1
+"Acropora hyacinthus","competitive","tables_or_plates","Colony fecundity","mm^3",92932.0315045564,39
+"Acropora hyacinthus","competitive","tables_or_plates","Colony maximum diameter","cm",300,3
+"Acropora hyacinthus","competitive","tables_or_plates","Growth rate","mm month^-1",6.71944444444444,3
+"Acropora hyacinthus","competitive","tables_or_plates","Polyp fecundity","units",5.576,1
+"Acropora hyacinthus","competitive","tables_or_plates","Symbiodinium density","units cm^-2",49073333.3333333,3
+"Acropora indonesia","n/a","branching_open","Colony maximum diameter","cm",100,2
+"Acropora insignis","n/a","branching_closed","Symbiodinium density","units cm^-2",1490000,1
+"Acropora intermedia","competitive","branching_open","Colony maximum diameter","cm",500,1
+"Acropora irregularis","n/a","branching_open","Colony maximum diameter","cm",300,1
+"Acropora jacquelineae","n/a","tables_or_plates","Colony maximum diameter","cm",86.6666666666667,3
+"Acropora lamarcki","n/a","tables_or_plates","Calcification rate","g cm ^-2 yr^-1",1.83,1
+"Acropora lamarcki","n/a","tables_or_plates","Colony maximum diameter","cm",200,2
+"Acropora lamarcki","n/a","tables_or_plates","Growth rate","mm month^-1",2.7,1
+"Acropora lianae","n/a","branching_closed","Colony maximum diameter","cm",50,1
+"Acropora listeri","n/a","branching_closed","Colony maximum diameter","cm",50,2
+"Acropora lokani","n/a","branching_closed","Colony maximum diameter","cm",30,1
+"Acropora loripes","competitive","corymbose","Colony maximum diameter","cm",45,2
+"Acropora lutkeni","competitive","branching_open","Colony maximum diameter","cm",600,1
+"Acropora macrostoma","n/a","corymbose","Colony maximum diameter","cm",100,1
+"Acropora maryae","n/a","branching_closed","Colony maximum diameter","cm",66.25,4
+"Acropora massawensis","n/a","digitate","Colony maximum diameter","cm",200,1
+"Acropora meridiana","n/a","branching_closed","Colony maximum diameter","cm",100,1
+"Acropora microclados","competitive","corymbose","Colony maximum diameter","cm",100,1
+"Acropora microphthalma","competitive","branching_open","Colony maximum diameter","cm",200,1
+"Acropora millepora","competitive","corymbose","Colony fecundity","mm^3",18509.1410498606,33
+"Acropora millepora","competitive","corymbose","Polyp fecundity","units",5.139,1
+"Acropora monticulosa","n/a","digitate","Colony maximum diameter","cm",300,1
+"Acropora muricata","competitive","branching_open","Calcification rate","g cm ^-2 yr^-1",1.71,1
+"Acropora muricata","competitive","branching_open","Colony maximum diameter","cm",625,2
+"Acropora muricata","competitive","branching_open","Growth rate","mm month^-1",7.44411764705882,17
+"Acropora muricata","competitive","branching_open","Symbiodinium density","units cm^-2",1583200,15
+"Acropora nana","n/a","branching_closed","Colony fecundity","mm^3",894.151976454054,37
+"Acropora nana","n/a","branching_closed","Colony maximum diameter","cm",15,2
+"Acropora nana","n/a","branching_closed","Polyp fecundity","units",4.461,1
+"Acropora nasuta","n/a","corymbose","Calcification rate","g cm ^-2 yr^-1",2.96,1
+"Acropora nasuta","n/a","corymbose","Colony maximum diameter","cm",80,1
+"Acropora nasuta","n/a","corymbose","Growth rate","mm month^-1",3.49166666666667,5
+"Acropora palmata","competitive","branching_open","Colony maximum diameter","cm",400,1
+"Acropora palmata","competitive","branching_open","Growth rate","mm month^-1",15.1446428571429,28
+"Acropora palmata","competitive","branching_open","Symbiodinium density","units cm^-2",2319873.76237624,404
+"Acropora palmerae","n/a","encrusting","Colony maximum diameter","cm",180,5
+"Acropora paniculata","n/a","tables_or_plates","Colony maximum diameter","cm",103,5
+"Acropora parahemprichii","n/a","branching_closed","Colony maximum diameter","cm",400,2
+"Acropora pectinatus","n/a","branching_closed","Colony maximum diameter","cm",100,1
+"Acropora pharaonis","n/a","tables_or_plates","Growth rate","mm month^-1",1.20333333333333,5
+"Acropora pichoni","n/a","tables_or_plates","Colony maximum diameter","cm",100,1
+"Acropora pinguis","n/a","branching_open","Colony maximum diameter","cm",200,1
+"Acropora polystoma","competitive","corymbose","Colony maximum diameter","cm",80,2
+"Acropora prolifera","n/a","branching_closed","Growth rate","mm month^-1",4.94444444444444,3
+"Acropora pruinosa","n/a","branching_closed","Colony maximum diameter","cm",100,1
+"Acropora pulchra","competitive","branching_open","Colony maximum diameter","cm",500,1
+"Acropora pulchra","competitive","branching_open","Growth rate","mm month^-1",10.85,4
+"Acropora pulchra","competitive","branching_open","Symbiodinium density","units cm^-2",2230000,1
+"Acropora rambleri","n/a","tables_or_plates","Colony maximum diameter","cm",100,1
+"Acropora robusta","competitive","branching_open","Growth rate","mm month^-1",1.86666666666667,1
+"Acropora robusta","competitive","branching_open","Symbiodinium density","units cm^-2",2030000,1
+"Acropora roseni","n/a","branching_open","Colony maximum diameter","cm",200,1
+"Acropora rudis","n/a","branching_open","Colony maximum diameter","cm",100,1
+"Acropora samoensis","competitive","digitate","Colony maximum diameter","cm",100,1
+"Acropora sarmentosa","competitive","corymbose","Colony maximum diameter","cm",30,1
+"Acropora secale","competitive","branching_closed","Colony maximum diameter","cm",100,1
+"Acropora selago","n/a","corymbose","Colony maximum diameter","cm",75,1
+"Acropora simplex","n/a","tables_or_plates","Colony maximum diameter","cm",100,1
+"Acropora solitaryensis","competitive","tables_or_plates","Colony maximum diameter","cm",204,5
+"Acropora solitaryensis","competitive","tables_or_plates","Growth rate","mm month^-1",1.39166666666667,1
+"Acropora solitaryensis","competitive","tables_or_plates","Symbiodinium density","units cm^-2",2100000,1
+"Acropora speciosa","n/a","corymbose","Colony maximum diameter","cm",50,2
+"Acropora speciosa","n/a","corymbose","Growth rate","mm month^-1",3.35833333333333,1
+"Acropora spicifera","n/a","tables_or_plates","Growth rate","mm month^-1",9.25,3
+"Acropora stoddarti","n/a","tables_or_plates","Colony maximum diameter","cm",200,1
+"Acropora subulata","competitive","tables_or_plates","Colony maximum diameter","cm",250,4
+"Acropora sukarnoi","n/a","tables_or_plates","Colony maximum diameter","cm",150,2
+"Acropora tumida","n/a","branching_closed","Colony maximum diameter","cm",200,2
+"Acropora tumida","n/a","branching_closed","Growth rate","mm month^-1",0.691666666666667,1
+"Acropora turaki","n/a","hispidose","Colony maximum diameter","cm",200,2
+"Acropora valenciennesi","competitive","branching_open","Colony maximum diameter","cm",333.333333333333,3
+"Acropora valenciennesi","competitive","branching_open","Growth rate","mm month^-1",14.9444444444444,6
+"Acropora valida","competitive","corymbose","Colony maximum diameter","cm",50,2
+"Acropora valida","competitive","corymbose","Growth rate","mm month^-1",2.85833333333333,2
+"Acropora walindii","n/a","branching_open","Colony maximum diameter","cm",100,1
+"Acropora willisae","n/a","corymbose","Colony maximum diameter","cm",70,2
+"Acropora yongei","competitive","branching_closed","Colony maximum diameter","cm",200,1
+"Acropora yongei","competitive","branching_closed","Growth rate","mm month^-1",4.945,2
+"Agaricia agaricites","weedy","laminar","Colony maximum diameter","cm",34.955,2
+"Agaricia agaricites","weedy","laminar","Growth rate","mm month^-1",0.231807692307692,26
+"Agaricia fragilis","weedy","encrusting","Colony maximum diameter","cm",4.74,1
+"Agaricia humilis","weedy","encrusting","Colony maximum diameter","cm",12,1
+"Agaricia lamarcki","weedy","laminar","Colony maximum diameter","cm",11.21,1
+"Agaricia lamarcki","weedy","laminar","Growth rate","mm month^-1",0.402777777777778,3
+"Agaricia tenuifolia","weedy","laminar","Larval swimming speed","mm s^-1",2.85,2
+"Alveopora catalai","n/a","branching_closed","Colony maximum diameter","cm",833.333333333333,3
+"Alveopora excelsa","n/a","submassive","Colony maximum diameter","cm",200,1
+"Alveopora japonica","n/a","massive","Colony maximum diameter","cm",4,1
+"Alveopora minuta","n/a","submassive","Colony maximum diameter","cm",10,1
+"Alveopora spongiosa","n/a","columnar","Colony maximum diameter","cm",150,2
+"Astrea curta","stress-tolerant","massive","Growth rate","mm month^-1",0.216666666666667,4
+"Astrea devantieri","n/a","massive","Colony maximum diameter","cm",150,2
+"Astreopora incrustans","n/a","encrusting","Colony maximum diameter","cm",100,1
+"Astreopora myriophthalma","stress-tolerant","massive","Growth rate","mm month^-1",0.645833333333333,2
+"Australogyra zelli","n/a","branching_closed","Colony maximum diameter","cm",200,1
+"Balanophyllia europaea","n/a","massive","Colony maximum diameter","cm",2,1
+"Balanophyllia europaea","n/a","massive","Growth rate","mm month^-1",0.0968055555555556,6
+"Cantharellus doederleini","n/a","massive","Colony maximum diameter","cm",5,1
+"Cantharellus jebbi","n/a","encrusting","Colony maximum diameter","cm",20,1
+"Cantharellus noumeae","n/a","encrusting","Colony maximum diameter","cm",20,1
+"Catalaphyllia jardinei","n/a","massive","Colony maximum diameter","cm",100,1
+"Caulastraea curvata","n/a","branching_closed","Colony maximum diameter","cm",100,1
+"Caulastraea furcata","stress-tolerant","massive","Colony maximum diameter","cm",500,1
+"Caulastraea tumida","n/a","massive","Colony maximum diameter","cm",100,1
+"Cladocora caespitosa","n/a","massive","Colony maximum diameter","cm",50,1
+"Cladocora caespitosa","n/a","massive","Growth rate","mm month^-1",0.288333333333333,1
+"Coelastrea aspera","weedy","massive","Colony maximum diameter","cm",500,2
+"Coelastrea aspera","weedy","massive","Growth rate","mm month^-1",0.333333333333333,2
+"Coelastrea aspera","weedy","massive","Larval swimming speed","mm s^-1",2.75,1
+"Coelastrea aspera","weedy","massive","Symbiodinium density","units cm^-2",6900000,1
+"Coelastrea aspera","weedy","massive","Tissue thickness","mm",3.6,1
+"Coelastrea palauensis","n/a","massive","Colony maximum diameter","cm",20,1
+"Colpophyllia breviserialis","n/a",NA,"Colony maximum diameter","cm",50,1
+"Colpophyllia natans","stress-tolerant","massive","Colony maximum diameter","cm",134.915,4
+"Colpophyllia natans","stress-tolerant","massive","Growth rate","mm month^-1",0.719942528735632,29
+"Cycloseris costulata","n/a","massive","Colony maximum diameter","cm",7.73333333333333,3
+"Cycloseris curvata","n/a","massive","Colony maximum diameter","cm",9,1
+"Cycloseris cyclolites","n/a","massive","Colony maximum diameter","cm",16.0333333333333,3
+"Cycloseris distorta","n/a","massive","Colony maximum diameter","cm",4,3
+"Cycloseris fragilis","n/a","massive","Colony maximum diameter","cm",7,3
+"Cycloseris hexagonalis","n/a","massive","Colony maximum diameter","cm",9,1
+"Cycloseris mokai","n/a","massive","Colony maximum diameter","cm",8.66666666666667,3
+"Cycloseris somervillei","n/a","massive","Colony maximum diameter","cm",13,1
+"Cyphastrea chalcidicum","stress-tolerant","massive","Colony maximum diameter","cm",100,1
+"Cyphastrea ocellina","weedy","massive","Growth rate","mm month^-1",0.27125,2
+"Cyphastrea ocellina","weedy","massive","Larval swimming speed","mm s^-1",2.5,1
+"Cyphastrea serailia","stress-tolerant","massive","Growth rate","mm month^-1",0.411111111111111,6
+"Danafungia horrida","n/a","massive","Colony maximum diameter","cm",20,3
+"Danafungia scruposa","n/a","massive","Colony maximum diameter","cm",24,3
+"Dendrogyra cylindrus","competitive","columnar","Colony maximum diameter","cm",200,1
+"Dendrogyra cylindrus","competitive","columnar","Growth rate","mm month^-1",1.59375,2
+"Dichocoenia stellaris","n/a",NA,"Colony maximum diameter","cm",30,1
+"Dichocoenia stokesi","stress-tolerant","massive","Colony maximum diameter","cm",34.395,2
+"Diploastrea heliopora","stress-tolerant","massive","Colony maximum diameter","cm",633.333333333333,3
+"Diploastrea heliopora","stress-tolerant","massive","Growth rate","mm month^-1",0.202699404761905,28
+"Diploria labyrinthiformis","stress-tolerant","massive","Colony maximum diameter","cm",32.33,1
+"Diploria labyrinthiformis","stress-tolerant","massive","Growth rate","mm month^-1",0.340565476190476,28
+"Dipsastraea faviaformis","n/a","massive","Colony maximum diameter","cm",20,2
+"Dipsastraea favus","stress-tolerant","massive","Colony maximum diameter","cm",37,1
+"Dipsastraea favus","stress-tolerant","massive","Polyp fecundity","units",1200,1
+"Dipsastraea lacuna","n/a","massive","Colony maximum diameter","cm",100,2
+"Dipsastraea lizardensis","n/a","massive","Colony maximum diameter","cm",100,1
+"Dipsastraea marshae","n/a","massive","Colony maximum diameter","cm",60,1
+"Dipsastraea pallida","stress-tolerant","massive","Growth rate","mm month^-1",0.358333333333333,5
+"Dipsastraea rosaria","n/a","encrusting","Colony maximum diameter","cm",100,2
+"Dipsastraea speciosa","n/a","massive","Colony maximum diameter","cm",75,1
+"Dipsastraea speciosa","n/a","massive","Growth rate","mm month^-1",0.531547619047619,14
+"Echinophyllia costata","n/a","laminar","Colony maximum diameter","cm",80,1
+"Echinophyllia orpheensis","stress-tolerant","submassive","Colony maximum diameter","cm",45,2
+"Echinopora ashmorensis","n/a","encrusting_long_uprights","Colony maximum diameter","cm",200,1
+"Echinopora fruticulosa","n/a","branching_closed","Colony maximum diameter","cm",200,1
+"Echinopora horrida","n/a","encrusting_long_uprights","Colony maximum diameter","cm",500,1
+"Echinopora lamellosa","n/a","laminar","Colony maximum diameter","cm",500,1
+"Echinopora mammiformis","n/a","encrusting_long_uprights","Colony maximum diameter","cm",500,1
+"Endopachys bulbosa","n/a",NA,"Growth rate","mm month^-1",2.08333333333333,1
+"Erythrastrea flabellata","n/a","massive","Colony maximum diameter","cm",100,1
+"Euphyllia ancora","n/a","massive","Colony maximum diameter","cm",100,1
+"Euphyllia cristata","n/a","massive","Colony maximum diameter","cm",12,1
+"Euphyllia divisa","n/a","massive","Colony maximum diameter","cm",100,2
+"Eusmilia fastigiata","stress-tolerant","massive","Colony maximum diameter","cm",129.955,2
+"Favia fragum","stress-tolerant","massive","Colony maximum diameter","cm",4.18,2
+"Favites abdita","stress-tolerant","massive","Colony maximum diameter","cm",100,2
+"Favites abdita","stress-tolerant","massive","Growth rate","mm month^-1",0.0666666666666667,1
+"Favites colemani","n/a","encrusting","Colony maximum diameter","cm",40,1
+"Favites magnistellata","n/a","massive","Colony maximum diameter","cm",200,1
+"Favites micropentagonus","n/a","submassive","Colony maximum diameter","cm",50,1
+"Favites paraflexuosus","n/a","massive","Colony maximum diameter","cm",60,1
+"Favites pentagona","stress-tolerant","submassive","Colony maximum diameter","cm",100,2
+"Fungia fungites","stress-tolerant","massive","Calcification rate","g cm ^-2 yr^-1",0.41,1
+"Fungia fungites","stress-tolerant","massive","Colony maximum diameter","cm",28,3
+"Fungia fungites","stress-tolerant","massive","Growth rate","mm month^-1",0.166666666666667,1
+"Galaxea acrhelia","n/a","branching_closed","Colony maximum diameter","cm",125,2
+"Galaxea astreata","stress-tolerant","submassive","Colony maximum diameter","cm",166.666666666667,3
+"Galaxea cryptoramosa","n/a","branching_closed","Colony maximum diameter","cm",30,2
+"Galaxea fascicularis","stress-tolerant","massive","Colony maximum diameter","cm",500,3
+"Galaxea horrescens","n/a","branching_closed","Colony maximum diameter","cm",200,1
+"Galaxea horrescens","n/a","branching_closed","Larval swimming speed","mm s^-1",3.1315,40
+"Galaxea longisepta","n/a","encrusting","Colony maximum diameter","cm",15,1
+"Gardineroseris planulata","stress-tolerant","massive","Growth rate","mm month^-1",0.825,3
+"Goniastrea edwardsi","stress-tolerant","massive","Colony maximum diameter","cm",100,2
+"Goniastrea edwardsi","stress-tolerant","massive","Growth rate","mm month^-1",0.821875,4
+"Goniastrea edwardsi","stress-tolerant","massive","Symbiodinium density","units cm^-2",368000,1
+"Goniastrea favulus","stress-tolerant","massive","Growth rate","mm month^-1",0.3375,2
+"Goniastrea pectinata","n/a","submassive","Symbiodinium density","units cm^-2",1920000,1
+"Goniastrea ramosa","n/a","encrusting_long_uprights","Colony maximum diameter","cm",30,2
+"Goniastrea retiformis","stress-tolerant","massive","Colony fecundity","mm^3",6349.88481168333,30
+"Goniastrea retiformis","stress-tolerant","massive","Colony maximum diameter","cm",100,2
+"Goniastrea retiformis","stress-tolerant","massive","Growth rate","mm month^-1",0.605833333333333,5
+"Goniastrea retiformis","stress-tolerant","massive","Polyp fecundity","units",45.818,1
+"Goniastrea retiformis","stress-tolerant","massive","Symbiodinium density","units cm^-2",2880000,1
+"Goniastrea retiformis","stress-tolerant","massive","Tissue thickness","mm",2.8,1
+"Goniastrea stelligera","stress-tolerant","massive","Growth rate","mm month^-1",0.833333333333333,1
+"Goniastrea thecata","n/a","massive","Colony maximum diameter","cm",100,2
+"Goniopora albiconus","n/a","encrusting","Colony maximum diameter","cm",100,1
+"Goniopora ciliatus","n/a","columnar","Colony maximum diameter","cm",500,1
+"Goniopora pearsoni","n/a","massive","Colony maximum diameter","cm",200,1
+"Goniopora somaliensis","n/a","encrusting","Colony maximum diameter","cm",200,2
+"Goniopora stokesi","n/a","columnar","Colony maximum diameter","cm",10,1
+"Gyrosmilia interrupta","n/a","submassive","Colony maximum diameter","cm",50,1
+"Halomitra pileus","n/a","massive","Colony maximum diameter","cm",60,1
+"Heliofungia actiniformis","stress-tolerant","massive","Colony maximum diameter","cm",20,1
+"Heliofungia actiniformis","stress-tolerant","massive","Growth rate","mm month^-1",0.48,1
+"Heliofungia actiniformis","stress-tolerant","massive","Larval swimming speed","mm s^-1",1.92114285714286,35
+"Helioseris cucullata","n/a","laminar","Colony maximum diameter","cm",24,1
+"Herpolitha limax","n/a","massive","Growth rate","mm month^-1",0.833333333333333,1
+"Homophyllia australis","n/a","massive","Colony maximum diameter","cm",4.3,2
+"Homophyllia bowerbanki","n/a","massive","Colony maximum diameter","cm",175,2
+"Homophyllia hillae","n/a","massive","Colony maximum diameter","cm",150,3
+"Hydnophora exesa","generalist","submassive","Colony maximum diameter","cm",100,1
+"Hydnophora microconos","stress-tolerant","massive","Calcification rate","g cm ^-2 yr^-1",0.43,1
+"Hydnophora microconos","stress-tolerant","massive","Growth rate","mm month^-1",0.741666666666667,2
+"Hydnophora rigida","n/a","branching_closed","Growth rate","mm month^-1",5.91666666666667,1
+"Indophyllia macassarensis","n/a","massive","Colony maximum diameter","cm",4.5,1
+"Isophyllia rigida","n/a","massive","Colony maximum diameter","cm",5.78,1
+"Isophyllia sinuosa","weedy","massive","Colony maximum diameter","cm",8.27,1
+"Isopora brueggemanni","n/a","branching_open","Growth rate","mm month^-1",6.23333333333333,1
+"Isopora brueggemanni","n/a","branching_open","Larval swimming speed","mm s^-1",3.2055,40
+"Isopora brueggemanni","n/a","branching_open","Symbiodinium density","units cm^-2",2150000,1
+"Isopora crateriformis","n/a","encrusting","Colony maximum diameter","cm",86.6666666666667,3
+"Isopora cuneata","n/a","encrusting","Colony maximum diameter","cm",20,1
+"Isopora palifera","n/a","branching_open","Symbiodinium density","units cm^-2",4e+06,2
+"Isopora togianensis","n/a","branching_open","Colony maximum diameter","cm",150,2
+"Leptastrea aequalis","n/a","encrusting","Colony maximum diameter","cm",20,1
+"Leptastrea bewickensis","n/a","encrusting","Colony maximum diameter","cm",100,1
+"Leptastrea purpurea","weedy","encrusting","Calcification rate","g cm ^-2 yr^-1",0.31,1
+"Leptastrea purpurea","weedy","encrusting","Colony maximum diameter","cm",100,1
+"Leptastrea purpurea","weedy","encrusting","Growth rate","mm month^-1",0.15,1
+"Leptoria irregularis","n/a","encrusting","Colony maximum diameter","cm",150,1
+"Leptoseris gardineri","n/a","laminar","Colony maximum diameter","cm",866.666666666667,3
+"Leptoseris mycetoseroides","n/a","laminar","Colony maximum diameter","cm",133.333333333333,3
+"Leptoseris striata","n/a","encrusting","Colony maximum diameter","cm",7.5,2
+"Leptoseris yabei","n/a","laminar","Colony maximum diameter","cm",100,2
+"Lithophyllon concinna","n/a","massive","Colony maximum diameter","cm",16,3
+"Lithophyllon repanda","n/a","massive","Colony maximum diameter","cm",30,3
+"Lithophyllon spinifer","n/a","massive","Colony maximum diameter","cm",12.5,1
+"Lithophyllon undulatum","n/a","encrusting","Colony maximum diameter","cm",50,1
+"Lobactis scutaria","n/a","massive","Colony maximum diameter","cm",17,3
+"Lobactis scutaria","n/a","massive","Growth rate","mm month^-1",0.775,4
+"Lobactis scutaria","n/a","massive","Larval swimming speed","mm s^-1",2.5,1
+"Lobophyllia corymbosa","stress-tolerant","massive","Colony maximum diameter","cm",125,2
+"Lobophyllia corymbosa","stress-tolerant","massive","Polyp fecundity","units",2800,1
+"Lobophyllia dentata","n/a","massive","Colony maximum diameter","cm",200,2
+"Lobophyllia flabelliformis","n/a","massive","Colony maximum diameter","cm",200,1
+"Lobophyllia hemprichii","n/a","massive","Colony maximum diameter","cm",500,1
+"Lobophyllia pachysepta","stress-tolerant","massive","Colony maximum diameter","cm",50,1
+"Lobophyllia serrata","n/a","massive","Colony maximum diameter","cm",200,2
+"Lophelia pertusa","n/a",NA,"Growth rate","mm month^-1",1.05833333333333,2
+"Madracis asperula","n/a","branching_closed","Growth rate","mm month^-1",1.35166666666667,2
+"Madracis decactis","weedy","digitate","Colony maximum diameter","cm",9,2
+"Madracis formosa","weedy","columnar","Colony maximum diameter","cm",10.23,1
+"Madracis kirbyi","n/a","digitate","Colony maximum diameter","cm",125,1
+"Madracis mirabilis","n/a","branching_closed","Colony maximum diameter","cm",14.66,1
+"Madracis mirabilis","n/a","branching_closed","Growth rate","mm month^-1",1.83333333333333,1
+"Manicina areolata","weedy","massive","Colony maximum diameter","cm",7.675,2
+"Meandrina meandrites","stress-tolerant","submassive","Colony maximum diameter","cm",16.3,1
+"Meandrina meandrites","stress-tolerant","submassive","Growth rate","mm month^-1",0.0959375,16
+"Merulina ampliata","generalist","laminar","Growth rate","mm month^-1",1.8745,8
+"Merulina scheeri","n/a","digitate","Colony maximum diameter","cm",30,1
+"Merulina triangularis","n/a","branching_closed","Colony maximum diameter","cm",266.666666666667,3
+"Micromussa diminuta","n/a","massive","Colony maximum diameter","cm",30,1
+"Micromussa multipunctata","n/a","encrusting","Colony maximum diameter","cm",30,1
+"Montastraea cavernosa","stress-tolerant","massive","Colony maximum diameter","cm",147.845,4
+"Montastraea cavernosa","stress-tolerant","massive","Growth rate","mm month^-1",0.784699074074074,36
+"Montipora capitata","competitive","encrusting_long_uprights","Growth rate","mm month^-1",2.15072916666667,4
+"Montipora confusa","n/a","encrusting_long_uprights","Colony maximum diameter","cm",100,1
+"Montipora digitata","competitive","branching_open","Growth rate","mm month^-1",3.45783333333333,11
+"Montipora digitata","competitive","branching_open","Symbiodinium density","units cm^-2",2470000,1
+"Montipora digitata","competitive","branching_open","Tissue thickness","mm",0.9,1
+"Montipora dilatata","n/a","digitate","Colony maximum diameter","cm",30,1
+"Montipora dilatata","n/a","digitate","Larval swimming speed","mm s^-1",1.5,1
+"Montipora flabellata","n/a","laminar","Colony maximum diameter","cm",50,1
+"Montipora foliosa","n/a","laminar","Growth rate","mm month^-1",2.70833333333333,1
+"Montipora hemispherica","n/a","digitate","Colony maximum diameter","cm",200,1
+"Montipora meandrina","n/a","encrusting","Colony maximum diameter","cm",20,1
+"Montipora monasteriata","generalist","laminar","Symbiodinium density","units cm^-2",1135200,5
+"Montipora niugini","n/a","digitate","Colony maximum diameter","cm",30,2
+"Montipora palawanensis","n/a","laminar","Colony maximum diameter","cm",200,1
+"Montipora patula","n/a","laminar","Colony maximum diameter","cm",200,1
+"Montipora saudii","n/a","encrusting_long_uprights","Colony maximum diameter","cm",100,1
+"Montipora solanderi","n/a",NA,"Symbiodinium density","units cm^-2",960000,1
+"Montipora taiwanensis","n/a","submassive","Colony maximum diameter","cm",50,1
+"Montipora turgescens","n/a","massive","Symbiodinium density","units cm^-2",3320000,1
+"Montipora undata","n/a","laminar","Growth rate","mm month^-1",2.16666666666667,1
+"Montipora verrilli","n/a","encrusting","Growth rate","mm month^-1",1.43333333333333,1
+"Montipora verrucosa","generalist","laminar","Growth rate","mm month^-1",2.28423076923077,13
+"Montipora verrucosa","generalist","laminar","Larval swimming speed","mm s^-1",1.5,1
+"Montipora verruculosa","n/a","encrusting","Colony maximum diameter","cm",200,1
+"Moseleya latistellata","n/a","submassive","Colony maximum diameter","cm",25,1
+"Mussa angulosa","n/a","massive","Colony maximum diameter","cm",32.285,2
+"Mussismilia braziliensis","n/a","massive","Growth rate","mm month^-1",0.666666666666667,1
+"Mussismilia harttii","n/a","massive","Colony maximum diameter","cm",100,1
+"Mussismilia hispida","n/a","massive","Colony maximum diameter","cm",50,1
+"Mussismilia leptophylla","n/a","massive","Colony maximum diameter","cm",100,1
+"Mycedium elephantotus","generalist","laminar","Colony maximum diameter","cm",300,1
+"Mycedium steeni","n/a","laminar","Colony maximum diameter","cm",30,2
+"Mycedium umbra","n/a","encrusting","Colony maximum diameter","cm",100,1
+"Mycetophyllia aliciae","n/a","massive","Colony maximum diameter","cm",13.62,1
+"Mycetophyllia ferox","weedy","laminar","Colony maximum diameter","cm",17.12,2
+"Mycetophyllia lamarckiana","n/a","encrusting","Colony maximum diameter","cm",9.14,2
+"Nemenzophyllia turbida","n/a","massive","Colony maximum diameter","cm",200,1
+"Oculina arbuscula","n/a",NA,"Colony maximum diameter","cm",50,1
+"Oculina varicosa","n/a","branching_closed","Colony maximum diameter","cm",50,1
+"Orbicella annularis","stress-tolerant","massive","Calcification rate","g cm ^-2 yr^-1",1.21733333333333,15
+"Orbicella annularis","stress-tolerant","massive","Colony maximum diameter","cm",409.935,4
+"Orbicella annularis","stress-tolerant","massive","Growth rate","mm month^-1",0.589707391713748,354
+"Orbicella annularis","stress-tolerant","massive","Symbiodinium density","units cm^-2",2211867.21611722,1092
+"Orbicella faveolata","generalist","massive","Calcification rate","g cm ^-2 yr^-1",0.948675862,3
+"Orbicella faveolata","generalist","massive","Colony maximum diameter","cm",342,4
+"Orbicella faveolata","generalist","massive","Growth rate","mm month^-1",0.728787878787879,11
+"Orbicella faveolata","generalist","massive","Symbiodinium density","units cm^-2",3030428.81944444,1152
+"Orbicella faveolata","generalist","massive","Tissue thickness","mm",0.24,11
+"Orbicella franksi","generalist","massive","Calcification rate","g cm ^-2 yr^-1",0.835862069,1
+"Orbicella franksi","generalist","massive","Colony maximum diameter","cm",257.415,2
+"Orbicella franksi","generalist","massive","Growth rate","mm month^-1",0.4346875,8
+"Orbicella franksi","generalist","massive","Symbiodinium density","units cm^-2",1646991.22807018,456
+"Oulophyllia crispa","stress-tolerant","massive","Colony maximum diameter","cm",100,2
+"Oulophyllia crispa","stress-tolerant","massive","Growth rate","mm month^-1",1.75,2
+"Oxypora convoluta","n/a","laminar","Colony maximum diameter","cm",200,2
+"Oxypora egyptensis","n/a","submassive","Colony maximum diameter","cm",100,2
+"Pachyseris rugosa","generalist","laminar","Colony maximum diameter","cm",633.333333333333,3
+"Pachyseris speciosa","generalist","laminar","Colony maximum diameter","cm",2,1
+"Paragoniastrea australensis","stress-tolerant","submassive","Growth rate","mm month^-1",0.283333333333333,5
+"Paramontastraea serageldini","n/a","massive","Colony maximum diameter","cm",80,2
+"Parascolymia vitiensis","n/a","massive","Colony maximum diameter","cm",11.1666666666667,3
+"Pavona bipartita","n/a","submassive","Colony maximum diameter","cm",100,1
+"Pavona cactus","n/a","digitate","Colony maximum diameter","cm",1000,1
+"Pavona cactus","n/a","digitate","Growth rate","mm month^-1",3.12777777777778,3
+"Pavona clavus","stress-tolerant","columnar","Colony maximum diameter","cm",2000,1
+"Pavona clavus","stress-tolerant","columnar","Growth rate","mm month^-1",1.18387096774194,31
+"Pavona decussata","generalist","digitate","Colony maximum diameter","cm",20,1
+"Pavona duerdeni","n/a","massive","Growth rate","mm month^-1",0.85,2
+"Pavona gigantea","stress-tolerant","massive","Growth rate","mm month^-1",0.760098039215686,17
+"Pavona maldivensis","n/a","columnar","Colony maximum diameter","cm",30,1
+"Pavona maldivensis","n/a","columnar","Growth rate","mm month^-1",1.00416666666667,2
+"Pavona minuta","n/a","submassive","Colony maximum diameter","cm",550,2
+"Pavona varians","stress-tolerant","encrusting","Growth rate","mm month^-1",0.316666666666667,4
+"Pectinia africanus","n/a","massive","Colony maximum diameter","cm",30,2
+"Pectinia lactuca","n/a","encrusting","Colony maximum diameter","cm",100,2
+"Pectinia maxima","n/a","laminar","Colony maximum diameter","cm",100,1
+"Pectinia paeonia","n/a","laminar","Colony maximum diameter","cm",100,1
+"Phacelocyathus flos","n/a",NA,"Colony maximum diameter","cm",30,1
+"Physogyra lichtensteini","stress-tolerant","massive","Colony maximum diameter","cm",100,1
+"Placotrochides frustum","n/a",NA,"Colony maximum diameter","cm",0.5,1
+"Platygyra carnosus","n/a","massive","Colony maximum diameter","cm",40,1
+"Platygyra daedalea","stress-tolerant","massive","Growth rate","mm month^-1",1.83333333333333,1
+"Platygyra lamellina","stress-tolerant","massive","Growth rate","mm month^-1",0.616666666666667,1
+"Platygyra sinensis","stress-tolerant","massive","Growth rate","mm month^-1",0.697222222222222,3
+"Plerogyra discus","n/a","massive","Colony maximum diameter","cm",30,1
+"Plerogyra sinuosa","stress-tolerant","massive","Colony maximum diameter","cm",100,1
+"Plesiastrea versipora","stress-tolerant","massive","Colony maximum diameter","cm",233.333333333333,3
+"Plesiastrea versipora","stress-tolerant","massive","Growth rate","mm month^-1",0.344791666666667,8
+"Pleuractis granulosa","stress-tolerant","massive","Colony maximum diameter","cm",13.5,3
+"Pleuractis granulosa","stress-tolerant","massive","Growth rate","mm month^-1",0.477138242894057,129
+"Pleuractis paumotensis","n/a","massive","Colony maximum diameter","cm",25,3
+"Pleuractis seychellensis","n/a","massive","Colony maximum diameter","cm",15,1
+"Pleuractis taiwanensis","n/a","massive","Colony maximum diameter","cm",28,1
+"Pocillopora damicornis","weedy","branching_closed","Colony maximum diameter","cm",200,1
+"Pocillopora damicornis","weedy","branching_closed","Growth rate","mm month^-1",2.95105072463768,46
+"Pocillopora damicornis","weedy","branching_closed","Larval swimming speed","mm s^-1",1.84820224719101,267
+"Pocillopora damicornis","weedy","branching_closed","Symbiodinium density","units cm^-2",826000,5
+"Pocillopora damicornis","weedy","branching_closed","Tissue thickness","mm",0.9,1
+"Pocillopora danae","n/a","branching_open","Colony maximum diameter","cm",100,1
+"Pocillopora danae","n/a","branching_open","Growth rate","mm month^-1",0.683333333333333,1
+"Pocillopora effusa","n/a","branching_open","Colony maximum diameter","cm",200,2
+"Pocillopora elegans","competitive","branching_closed","Growth rate","mm month^-1",3.075,7
+"Pocillopora eydouxi","competitive","branching_open","Colony maximum diameter","cm",100,1
+"Pocillopora eydouxi","competitive","branching_open","Growth rate","mm month^-1",3.44722222222222,6
+"Pocillopora fungiformis","n/a","encrusting_long_uprights","Colony maximum diameter","cm",200,2
+"Pocillopora indiania","n/a","branching_closed","Colony maximum diameter","cm",100,2
+"Pocillopora inflata","n/a","branching_closed","Growth rate","mm month^-1",2.625,1
+"Pocillopora ligulata","n/a","branching_closed","Colony maximum diameter","cm",50,1
+"Pocillopora ligulata","n/a","branching_closed","Growth rate","mm month^-1",1.20833333333333,1
+"Pocillopora meandrina","competitive","branching_closed","Calcification rate","g cm ^-2 yr^-1",1.33,1
+"Pocillopora meandrina","competitive","branching_closed","Colony maximum diameter","cm",100,1
+"Pocillopora meandrina","competitive","branching_closed","Growth rate","mm month^-1",1.70691666666667,7
+"Pocillopora verrucosa","competitive","branching_closed","Colony maximum diameter","cm",50,1
+"Pocillopora verrucosa","competitive","branching_closed","Growth rate","mm month^-1",2.41404761904762,7
+"Pocillopora verrucosa","competitive","branching_closed","Symbiodinium density","units cm^-2",1710000,1
+"Pocillopora verrucosa","competitive","branching_closed","Tissue thickness","mm",0.4,1
+"Podabacia crustacea","n/a","encrusting","Colony maximum diameter","cm",150,2
+"Podabacia sinai","n/a","laminar","Colony maximum diameter","cm",100,1
+"Porites astreoides","weedy","massive","Calcification rate","g cm ^-2 yr^-1",0.589464962125,16
+"Porites astreoides","weedy","massive","Colony maximum diameter","cm",32.8433333333333,3
+"Porites astreoides","weedy","massive","Growth rate","mm month^-1",0.310095108695652,92
+"Porites astreoides","weedy","massive","Larval swimming speed","mm s^-1",3.55,2
+"Porites astreoides","weedy","massive","Symbiodinium density","units cm^-2",2767811.51832461,191
+"Porites australiensis","stress-tolerant","massive","Growth rate","mm month^-1",1.03846153846154,13
+"Porites australiensis","stress-tolerant","massive","Polyp fecundity","units",72,1
+"Porites australiensis","stress-tolerant","massive","Symbiodinium density","units cm^-2",3266666.66666667,3
+"Porites australiensis","stress-tolerant","massive","Tissue thickness","mm",5.925,12
+"Porites brighami","n/a","submassive","Colony maximum diameter","cm",10,1
+"Porites columnaris","n/a","columnar","Growth rate","mm month^-1",0.465416666666667,10
+"Porites compressa","competitive","encrusting_long_uprights","Colony maximum diameter","cm",123,1
+"Porites compressa","competitive","encrusting_long_uprights","Growth rate","mm month^-1",1.71137280701754,19
+"Porites compressa","competitive","encrusting_long_uprights","Larval swimming speed","mm s^-1",1.5,1
+"Porites cylindrica","weedy","encrusting_long_uprights","Calcification rate","g cm ^-2 yr^-1",0.44,1
+"Porites cylindrica","weedy","encrusting_long_uprights","Colony maximum diameter","cm",1000,1
+"Porites cylindrica","weedy","encrusting_long_uprights","Growth rate","mm month^-1",1.52980555555556,6
+"Porites cylindrica","weedy","encrusting_long_uprights","Symbiodinium density","units cm^-2",2140000,1
+"Porites cylindrica","weedy","encrusting_long_uprights","Tissue thickness","mm",1.3,1
+"Porites decasepta","n/a","encrusting","Colony maximum diameter","cm",7,1
+"Porites densa","n/a","massive","Colony maximum diameter","cm",15,3
+"Porites evermanni","n/a","columnar","Colony maximum diameter","cm",120,1
+"Porites evermanni","n/a","columnar","Growth rate","mm month^-1",0.966666666666667,1
+"Porites flavus","n/a","branching_closed","Colony maximum diameter","cm",40,1
+"Porites furcata","weedy","branching_closed","Growth rate","mm month^-1",2.88333333333333,2
+"Porites harrisoni","n/a","columnar","Colony maximum diameter","cm",100,2
+"Porites heronensis","n/a","columnar","Growth rate","mm month^-1",0.875,1
+"Porites lichen","n/a","laminar","Growth rate","mm month^-1",1.35833333333333,1
+"Porites lobata","stress-tolerant","massive","Calcification rate","g cm ^-2 yr^-1",0.792,5
+"Porites lobata","stress-tolerant","massive","Colony maximum diameter","cm",542.5,2
+"Porites lobata","stress-tolerant","massive","Growth rate","mm month^-1",0.776135014005602,85
+"Porites lobata","stress-tolerant","massive","Tissue thickness","mm",6.38333333333333,6
+"Porites lutea","stress-tolerant","massive","Calcification rate","g cm ^-2 yr^-1",2.06531818181818,22
+"Porites lutea","stress-tolerant","massive","Colony maximum diameter","cm",400,1
+"Porites lutea","stress-tolerant","massive","Growth rate","mm month^-1",1.20773214285714,70
+"Porites lutea","stress-tolerant","massive","Polyp fecundity","units",72,1
+"Porites lutea","stress-tolerant","massive","Symbiodinium density","units cm^-2",1988000,5
+"Porites lutea","stress-tolerant","massive","Tissue thickness","mm",5.76666666666667,15
+"Porites mayeri","n/a","massive","Colony maximum diameter","cm",400,1
+"Porites mayeri","n/a","massive","Growth rate","mm month^-1",1.08333333333333,1
+"Porites monticulosa","n/a","encrusting","Colony maximum diameter","cm",100,1
+"Porites murrayensis","n/a","massive","Colony maximum diameter","cm",20,2
+"Porites myrmidonensis","n/a","massive","Colony maximum diameter","cm",400,1
+"Porites nigrescens","n/a","branching_closed","Growth rate","mm month^-1",1.48333333333333,1
+"Porites nodifera","n/a","columnar","Calcification rate","g cm ^-2 yr^-1",0.92,1
+"Porites nodifera","n/a","columnar","Growth rate","mm month^-1",0.933333333333333,1
+"Porites porites","weedy","branching_closed","Colony maximum diameter","cm",19.8975,4
+"Porites porites","weedy","branching_closed","Growth rate","mm month^-1",1.4065625,8
+"Porites porites","weedy","branching_closed","Symbiodinium density","units cm^-2",2615000,2
+"Porites pukoensis","n/a","columnar","Symbiodinium density","units cm^-2",3650000,1
+"Porites rugosa","n/a","branching_closed","Colony maximum diameter","cm",100,1
+"Porites rus","weedy","digitate","Colony maximum diameter","cm",500,2
+"Porites rus","weedy","digitate","Growth rate","mm month^-1",1.27,3
+"Porites rus","weedy","digitate","Symbiodinium density","units cm^-2",2890000,1
+"Porites rus","weedy","digitate","Tissue thickness","mm",1.9,1
+"Porites sillimaniani","n/a","digitate","Tissue thickness","mm",1.3,1
+"Porites solida","n/a","massive","Growth rate","mm month^-1",1.12166666666667,5
+"Porites solida","n/a","massive","Symbiodinium density","units cm^-2",50100000,1
+"Porites solida","n/a","massive","Tissue thickness","mm",6.55,4
+"Porites stephensoni","n/a","massive","Colony maximum diameter","cm",10,3
+"Porites sverdrupi","n/a","branching_closed","Colony maximum diameter","cm",30,1
+"Porites vaughani","n/a","encrusting","Colony maximum diameter","cm",20,1
+"Psammocora contigua","n/a","columnar","Colony maximum diameter","cm",50,1
+"Psammocora digitata","n/a","columnar","Colony maximum diameter","cm",6.5,1
+"Psammocora haimiana","n/a","submassive","Growth rate","mm month^-1",2.45833333333333,2
+"Psammocora stellata","n/a","submassive","Growth rate","mm month^-1",0.941666666666667,3
+"Psammocora superficialis","generalist","encrusting","Growth rate","mm month^-1",0.297222222222222,3
+"Pseudodiploria clivosa","stress-tolerant","massive","Colony maximum diameter","cm",35.1333333333333,3
+"Pseudodiploria clivosa","stress-tolerant","massive","Growth rate","mm month^-1",0.533333333333333,1
+"Pseudodiploria strigosa","stress-tolerant","massive","Colony maximum diameter","cm",69.8566666666667,3
+"Pseudodiploria strigosa","stress-tolerant","massive","Growth rate","mm month^-1",0.419375,4
+"Pseudosiderastrea tayamai","n/a","massive","Colony maximum diameter","cm",16,3
+"Sandalolitha robusta","n/a","massive","Colony maximum diameter","cm",50,1
+"Schizoculina africana","n/a","branching_open","Colony maximum diameter","cm",100,1
+"Schizoculina fissipara","n/a","encrusting_long_uprights","Colony maximum diameter","cm",100,1
+"Scolymia cubensis","n/a","massive","Colony maximum diameter","cm",10,1
+"Seriatopora caliendrum","n/a","branching_closed","Growth rate","mm month^-1",4.83333333333333,1
+"Seriatopora guttata","n/a","branching_closed","Colony maximum diameter","cm",30,2
+"Seriatopora hystrix","weedy","branching_closed","Growth rate","mm month^-1",2.725,4
+"Seriatopora hystrix","weedy","branching_closed","Larval swimming speed","mm s^-1",3.885,2
+"Siderastrea glynni","n/a","massive","Colony maximum diameter","cm",10,1
+"Siderastrea radians","weedy","massive","Colony maximum diameter","cm",17.11,2
+"Siderastrea radians","weedy","massive","Growth rate","mm month^-1",0.270833333333333,1
+"Siderastrea savignyana","n/a","massive","Colony maximum diameter","cm",100,1
+"Siderastrea siderea","stress-tolerant","massive","Colony maximum diameter","cm",81.7675,4
+"Siderastrea siderea","stress-tolerant","massive","Growth rate","mm month^-1",0.67270202020202,33
+"Siderastrea siderea","stress-tolerant","massive","Symbiodinium density","units cm^-2",1243040.48582996,247
+"Solenastrea hyades","n/a","submassive","Growth rate","mm month^-1",1.25,1
+"Stephanocoenia intersepta","stress-tolerant","massive","Colony maximum diameter","cm",37.98,5
+"Stephanocoenia intersepta","stress-tolerant","massive","Growth rate","mm month^-1",0.15,1
+"Stylaraea punctata","n/a","encrusting","Colony maximum diameter","cm",6,3
+"Stylocoeniella guentheri","n/a","digitate","Colony maximum diameter","cm",50,1
+"Stylophora danae","n/a","branching_closed","Growth rate","mm month^-1",1,1
+"Stylophora madagascarensis","n/a","branching_closed","Colony maximum diameter","cm",20,1
+"Stylophora mamillata","n/a","encrusting","Colony maximum diameter","cm",10,1
+"Stylophora pistillata","weedy","branching_closed","Colony fecundity","mm^3",4818.46393939394,33
+"Stylophora pistillata","weedy","branching_closed","Growth rate","mm month^-1",1.74346443825397,24
+"Stylophora pistillata","weedy","branching_closed","Polyp fecundity","units",0.767088571428571,35
+"Symphyllia hassi","n/a","massive","Colony maximum diameter","cm",20,1
+"Trachyphyllia geoffroyi","n/a","massive","Colony maximum diameter","cm",8,1
+"Turbinaria frondens","generalist","laminar","Colony maximum diameter","cm",400,1
+"Turbinaria frondens","generalist","laminar","Growth rate","mm month^-1",1.16666666666667,1
+"Turbinaria mesenterina","competitive","laminar","Colony maximum diameter","cm",100,2
+"Turbinaria mesenterina","competitive","laminar","Growth rate","mm month^-1",1.60666666666667,1
+"Turbinaria radicalis","n/a","encrusting","Colony maximum diameter","cm",100,1
+"Turbinaria reniformis","n/a","laminar","Colony maximum diameter","cm",500,1
+"Zoopilus echinatus","n/a","massive","Colony maximum diameter","cm",60,1
