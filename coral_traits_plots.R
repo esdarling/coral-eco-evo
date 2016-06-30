@@ -99,8 +99,10 @@ subset(growth_rate3, value > 20)
 growth_rate3$value <- as.numeric(growth_rate3$value)
 str(growth_rate3)
 
+names(growth_rate3)
+
 #19 species with g/cm2/year units
-calc_rate <- read.csv("https://coraltraits.org/traits/127.csv", as.is=TRUE)
+  calc_rate <- read.csv("https://coraltraits.org/traits/127.csv", as.is=TRUE)
 calc_rate2 <- calc_rate[,c("specie_id","specie_name","trait_name",
                                "standard_unit","value")]
 calc_rate3 <- subset(calc_rate2, trait_name == "Calcification rate")
@@ -173,7 +175,6 @@ unique(lh2$specie_name)
 
 names(calc_rate4)
 names(col_fecund3)
-names(growth_rate3)
 names(growth_rate3[,1:5])
 names(max_diam2[,1:5])
 names(polyp_fecund3)
@@ -184,6 +185,7 @@ names(tis_thick3)
 data <- bind_rows(calc_rate4, col_fecund3, growth_rate3[,-c(6:7)],
                   max_diam2[,-c(6:7)], polyp_fecund3, swim_speed3, sym_dens3, tis_thick3) 
 head(data)
+names(data)
 
 unique(data$trait_name)
 unique(data$standard_unit)
@@ -212,6 +214,7 @@ head(data2)
 # Calculate species averages for traits
 ## ==================
 head(data2)
+unique(data2$trait_name)
 
 d <- data2 %>% 
   select(specie_name,life_history,growth_form,trait_name,standard_unit,value) %>% 
@@ -221,8 +224,9 @@ head(d)
 
 write.csv(d, "species_avg_traits.csv", row.names = FALSE)
 
+## ==================
 #how to code and remove outliers? 
-
+## ==================
 d$life_history[is.na(d$life_history)] <- "n/a"
 head(d$life_history)
 head(d)
